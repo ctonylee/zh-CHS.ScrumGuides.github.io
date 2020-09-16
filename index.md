@@ -7,6 +7,8 @@
 * 官方版 Scrum 指南™ ScrumGuides.org
   * 英文版：[网页版](https://www.scrumguides.org/scrum-guide.html)
   * 其他社群翻译版本: [连结](https://www.scrumguides.org/download.html)
+
+
 ---
 
 
