@@ -2,7 +2,7 @@
 
 *   如果对这个网路HTML版本有任何的问题、建议，欢迎在GitHub 上提出来讨论 [连结](https://github.com/ToastedIceCream/zh-chs.scrumguides.github.io/issues)
 *  [ScrumGuides.guru 版](https://scrumguides.guru/)
-  * [繁体中文](../zh-CHT/index.md)
+  * [繁体中文](https://zh-cht.scrumguides.guru/)
 
 * 官方版 Scrum 指南™ ScrumGuides.org
   * 英文版：[网页版](https://www.scrumguides.org/scrum-guide.html)
