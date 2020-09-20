@@ -16,12 +16,12 @@
 
 *   此HTML版本的Scrum指南是根据2017年11月版本的英文版[Scrum Guide](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-Chinese-Traditional.pdf) 
 
-# Scrum 指南的目的 
+# <a name="#purpose"></a>Scrum 指南的目的 
 
 Scrum 是用于开发、交付和持续支持复杂产品的一个框架。本指南包含了 Scrum 的定 义，其中包括 Scrum 的角色、事件、工件，以及把它们组织在一起的规则。Ken Schwaber 和 Jeff Sutherland 创造了 Scrum，Scrum 指南也由他们撰写并提供。总之，他们是 Scrum 指南的后盾。 
 
 
-# Scrum 的定义 
+# <a name="#definition"></a>Scrum 的定义 
 
 Scrum （名词）： Scrum 是一个框架，在此框架中人们可以解决复杂的自适应难题，同时也能高效并创造性地交付可能最高价值的产品。 
 
