@@ -11,7 +11,7 @@ image: /assets/sg-guru-logo.png
 * ScrumGuides.guru 全中文简体版：[PDF](2020-Scrum-Guide-Chinese-Simplified(Full-Translation).pdf)
   * 此版本的 Scrum 指南是根据 2020 年 11 月版本的英文版 [Scrum Guide](https://www.scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf) 翻译的
   * 如果对这个版本有任何的问题与建议，欢迎在 GitHub 上提出来讨论（[连结](https://github.com/ToastedIceCream/zh-chs.scrumguides.github.io/issues)）
-  * 另请参阅[繁体中文版](https://zh-cht.scrumguides.guru/)
+  * 另请参阅[全中文繁體版](https://zh-cht.scrumguides.guru/)
 * ScrumGuides.org：Scrum 关键字不翻译版（[连结](https://www.scrumguides.org/download.html)）
 
 ---
