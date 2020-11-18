@@ -3,6 +3,9 @@ github:
 
 plugins:
   - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
 relative_links:
   enabled:     true
 
@@ -12,3 +15,9 @@ title: [Scrum 指南：简体中文版]
 description: [让我们一起创建社区版本以共享知识]
 show_downloads: false
 google_analytics: UA-177167416-1
+
+facebook:
+  app_id: 734176127193250
+twitter:
+  username: ToastedIceCream
+  card: summary

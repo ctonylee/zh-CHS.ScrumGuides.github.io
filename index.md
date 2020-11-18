@@ -1,6 +1,8 @@
 ---
-title: {{ site.title }}
+title: 2017 Scrum 指南
+description: 让我们一起创建社区版本以共享知识
 layout: sidebar_toc
+image: /assets/sg-guru-logo.png
 ---
 
 # [ScrumGuides.guru 版本](https://scrumguides.guru/)
