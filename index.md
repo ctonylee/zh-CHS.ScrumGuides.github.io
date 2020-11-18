@@ -1,7 +1,12 @@
-# [ScrumGuides.Guru 版本：](https://scrumguides.guru/)
+---
+title: {{ site.title }}
+layout: sidebar_toc
+---
+
+# [ScrumGuides.guru 版本](https://scrumguides.guru/)
 
 * 此 HTML 版本的 Scrum 指南是根据 2017 年 11 月版本的英文版 [Scrum Guide](https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-Chinese-Traditional.pdf) 
-* 如果对这个网路HTML版本有任何的问题、建议，欢迎在 GitHub 上提出来讨论 [连结](https://github.com/ToastedIceCream/zh-chs.scrumguides.github.io/issues)
+* 如果对这个网路 HTML 版本有任何的问题、建议，欢迎在 GitHub 上提出来讨论 [连结](https://github.com/ToastedIceCream/zh-chs.scrumguides.github.io/issues)
 * 其他： 
   * [繁体中文](https://zh-cht.scrumguides.guru/)
 
