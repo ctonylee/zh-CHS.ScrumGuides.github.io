@@ -8,7 +8,6 @@ image: /assets/sg-guru-logo.png
 
 # 2020 Scrum 指南™
 
-此 HTML 版本的 Scrum 指南是从 2020 年 11 月简体版直接转换，可在[此处取得 PDF 档](2020-Scrum-Guide-Chinese-Simplified(Full-Translation).pdf)。
 * ScrumGuides.guru 全中文简体版：[PDF](2020-Scrum-Guide-Chinese-Simplified(Full-Translation).pdf)
   * 此版本的 Scrum 指南是根据 2020 年 11 月版本的英文版 [Scrum Guide](https://www.scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf) 翻译的
   * 如果对这个版本有任何的问题与建议，欢迎在 GitHub 上提出来讨论（[连结](https://github.com/ToastedIceCream/zh-chs.scrumguides.github.io/issues)）
