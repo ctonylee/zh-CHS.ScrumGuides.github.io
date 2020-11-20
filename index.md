@@ -1,5 +1,5 @@
 ---
-title: 2020 Scrum 指南
+title: 2020 Scrum 指南（全中文简体版）
 description: 让我们一起创建社区版本以共享知识
 layout: sidebar_toc
 ---
