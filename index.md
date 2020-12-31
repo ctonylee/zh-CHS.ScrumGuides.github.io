@@ -13,6 +13,10 @@ layout: sidebar_toc
   * 另请参阅[全中文繁體版](https://zh-cht.scrumguides.guru/)
 * ScrumGuides.org：Scrum 关键字不翻译版（[连结](https://www.scrumguides.org/download.html)）
 
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/zh_CN/sdk.js#xfbml=1&version=v9.0&appId=1415709141862803&autoLogAppEvents=1" nonce="6n93PvON"></script>
+<div class="fb-like" data-href="https://www.scrumguides.guru/" data-width="" data-layout="button_count" data-action="like" data-size="small" data-share="true"></div>
+
 ---
 
 
